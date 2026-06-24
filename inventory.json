@@ -1,0 +1,9 @@
+[
+  { "item": "Samsung Galaxy S26 Ultra 5G", "category": "Smartphone", "price_kes": 190000, "stock": "In Stock" },
+  { "item": "Samsung Galaxy A57", "category": "Smartphone", "price_kes": 65000, "stock": "In Stock" },
+  { "item": "iPhone 17 Pro Max", "category": "Smartphone", "price_kes": 210000, "stock": "In Stock" },
+  { "item": "Google Pixel 10 Pro XL", "category": "Smartphone", "price_kes": 150000, "stock": "In Stock" },
+  { "item": "Infinix Note 60 Pro", "category": "Smartphone", "price_kes": 42000, "stock": "In Stock" },
+  { "item": "Oppo Reno15 Pro", "category": "Smartphone", "price_kes": 78500, "stock": "In Stock" },
+  { "item": "Samsung Galaxy A26", "category": "Smartphone", "price_kes": 35000, "stock": "Out of Stock" }
+]
